@@ -1,4 +1,4 @@
-package es.mde.acing.proyectoLibVrmdim;
+package utils;
 
 public class PruebaLibreria {
 	
